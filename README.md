@@ -1,5 +1,5 @@
 
-## HTML Interview Questions and Detailed Answers
+## HTML Interview Questions and Answers
 
 
 ## Table of Contents
