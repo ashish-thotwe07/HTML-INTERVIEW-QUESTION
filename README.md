@@ -1,13 +1,36 @@
 
 ## HTML Interview Questions and Detailed Answers
 
+
+## Table of Contents
+1. [What is HTML?](#question-1)
+2. [What is the structure of an HTML element?](#question-2)
+3. [What are HTML attributes?](#question-3)
+4. [What is the difference between `<div>` and `<span>` tags in HTML?](#question-4)
+5. [What is the purpose of the `<head>` section in an HTML document?](#question-5)
+6. [What is the purpose of the `<title>` tag in HTML?](#question-6)
+7. [What is the purpose of the `<a>` tag in HTML?](#question-7)
+8. [How do you include CSS in an HTML document?](#question-8)
+9. [What is the purpose of the `<table>` tag in HTML?](#question-9)
+10. [What is the difference between the `<ol>` and `<ul>` tags in HTML?](#question-10)
+11. [What is the purpose of the `<img>` tag in HTML?](#question-11)
+12. [What is the purpose of the `<form>` element in HTML?](#question-12)
+13. [What are block-level and inline elements in HTML?](#question-13)
+14. [What is the purpose of the `<meta>` tag in HTML?](#question-14)
+15. [Explain the difference between the `GET` and `POST` methods in HTML forms.](#question-15)
+16. [What is semantic HTML?](#question-16)
+17. [How do you create a hyperlink that opens in a new tab?](#question-17)
+18. [Explain the difference between `<thead>`, `<tbody>`, and `<tfoot>` tags in HTML tables.](#question-18)
+
 ### Question 1
-**What is HTML?**
+<u>**What is HTML?**</u>
 
 HTML (Hypertext Markup Language) is the standard markup language used to create and structure web pages. It provides a set of elements that define the structure and content of a web page. HTML elements are represented by tags, which define how content is displayed to users in web browsers.
 
 ### Answer 1
 HTML is essential for creating web pages because it allows developers to structure content using a variety of tags, each serving a specific purpose. For example, the `<p>` tag is used to define paragraphs, `<h1>` to `<h6>` tags for headings, `<a>` for links, `<img>` for images, and so on. These tags not only structure content but also enable browsers to interpret and display it correctly to users.
+
+ <ul>
 
 ### Question 2
 **What is the structure of an HTML element?**
