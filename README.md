@@ -23,7 +23,7 @@
 18. [Explain the difference between `<thead>`, `<tbody>`, and `<tfoot>` tags in HTML tables.](#question-18)
 
 ### Question 1
-<u>**What is HTML?**</u>
+**What is HTML?**
 
 HTML (Hypertext Markup Language) is the standard markup language used to create and structure web pages. It provides a set of elements that define the structure and content of a web page. HTML elements are represented by tags, which define how content is displayed to users in web browsers.
 
